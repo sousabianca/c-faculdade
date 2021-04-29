@@ -1,0 +1,12 @@
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.exe.config
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.exe
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.pdb
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csprojAssemblyReference.cache
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Apresentacao.Cadastro.resources
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Apresentacao.Welcome.resources
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Form1.resources
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Properties.Resources.resources
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csproj.GenerateResource.cache
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csproj.CoreCompileInputs.cache
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.exe
+C:\Users\biamo\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.pdb
